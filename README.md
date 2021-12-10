@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hafiz Olamilekan 
 - 👀 I’m interested in developing online presence for startups and big companies 
 - 🌱 I’m currently learning Nodejs and Django Rest Framework
-- 💞️ I’m looking to collaborate on opem source projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me +2347067289152
 
 <!---
